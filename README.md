@@ -14,5 +14,5 @@ flower_target = df['target']
 ## 3. flower_target의 모습입니다. 0은 setosa, 1은 versicolor, 2는 virginica를 가르킵니다.
 ![flower_target](https://user-images.githubusercontent.com/50089365/131536223-88079225-828e-4de0-a032-817ed909b4c5.PNG)
 
-## 4. 배열 인덱싱을 활용하여 flower_data와 flower_target을 모델에 학습시키고 평가하였을  모델의 정확도가 100%가 나오도록 해주세요!
+## 4. 배열 인덱싱을 활용하여 flower_data와 flower_target을 모델에 학습시키고 평가하였을 때 모델의 정확도가 100%가 나오도록 해주세요!
 ### (평가 데이터는 37개로, random seed는 13으로 맞추겠습니다.)
